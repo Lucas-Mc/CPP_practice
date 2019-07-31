@@ -1,7 +1,7 @@
-# include <iostream>
-# include <cmath>
-# include <string>
-# include <map>
+#include <iostream>
+#include <cmath>
+#include <string>
+#include <map>
 using std::cout;
 using std::endl;
 using std::pow;
